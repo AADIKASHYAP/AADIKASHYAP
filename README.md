@@ -1,36 +1,97 @@
 <div align="center">
-  <!-- Welcoming Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Adarsh+👋;Welcome+to+my+digital+workspace!+✨;Turning+coffee+into+clean+code+💻" alt="Typing SVG" />
+
+# ADARSH KASHYAP
+
+### Software Engineer | Backend & Full-Stack Development
+
+Building scalable, maintainable and production-ready software.
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
-<br>
+---
 
-<p align="center">
-  <b>A passionate Computer Science Engineering graduate (Class of 2025) who loves building clean, user-friendly web applications and clever automation scripts. Always exploring, always learning! 🚀</b>
+## About Me
+
+I'm a Software Engineer focused on building reliable backend systems,
+web applications, APIs, and developer-focused solutions.
+
+Currently working as a **Software Engineering Intern at TechnoTribes**, 
+where I contribute to real-world software projects and work with
+production-oriented development workflows.
+
+- 💻 Interested in Backend & Full-Stack Engineering
+- 🧩 Focused on clean architecture and maintainable code
+- 🔧 Comfortable working with APIs, databases and Git-based workflows
+- 🚀 Continuously improving engineering fundamentals
+- 📚 Always learning and experimenting with new technologies
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-### ✨ What I Do
-- 💡 **Focus Areas:** Full-Stack Development, Scripting, and Browser Automation.
-- 🛠️ **Tech I Love:** Next.js, Python, JavaScript, and crafting custom web solutions (like Tampermonkey extensions).
-- 🌱 **Approach:** I believe in writing code that is not just functional, but clean, scalable, and easy to read. 
-- 🤝 **Collaboration:** Whether it's brainstorming a new idea or optimizing an old one, I'm always up for a good tech discussion.
+## What I Work On
 
-<br>
+```text
+Backend Development
+        │
+        ├── REST APIs
+        ├── Database Design
+        ├── Authentication & Authorization
+        ├── Business Logic
+        └── Performance & Reliability
 
-### 💻 My Toolkit
-<p align="left">
-  <!-- Bright, clean icons theme -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,html,css,git,vscode&theme=light&perline=10" alt="Tech Stack" />
-  </a>
-</p>
+Full-Stack Development
+        │
+        ├── Web Applications
+        ├── Frontend Integration
+        ├── API Integration
+        └── End-to-End Features
 
-<br>
-
+Software Engineering
+        │
+        ├── Git & Version Control
+        ├── Code Reviews
+        ├── Debugging
+        ├── Refactoring
+        └── Production Workflows
 ### 📈 GitHub Analytics
 <p align="center">
   <!-- Bright and professional 'buefy' theme for stats -->
