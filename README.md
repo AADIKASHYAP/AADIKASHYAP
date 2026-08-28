@@ -41,7 +41,7 @@ Currently working as a **Software Engineering Intern at TechnoTribes**, where I 
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql&theme=light" />
 </p>
 
 **Backend & Frameworks**
