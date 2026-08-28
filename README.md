@@ -56,7 +56,7 @@ Currently working as a **Software Engineering Intern at TechnoTribes**, where I 
 
 **Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,docker,linux,vscode&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,git,github,docker,linux,vscode&theme=light&perline=10" />
 </p>
 
 <br>
