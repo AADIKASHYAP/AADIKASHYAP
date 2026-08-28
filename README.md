@@ -1,27 +1,29 @@
-<div align="center">
-  <h1>Hi there, I'm Adarsh 👋</h1>
-  <p><b>Software Developer | Full-Stack & Automation</b></p>
-  <p>I like to keep things simple, clean, and efficient. Building modern web applications and writing scripts that make life easier.</p>
-</div>
+<h1 align="center">Hi, I'm Adarsh.</h1>
+<h3 align="center">Software Developer | Crafting clean code & automation</h3>
 
-<br />
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Tampermonkey" />
-</div>
+### 👨‍💻 About Me
+- 🎓 Computer Science & Engineering Graduate (2025).
+- ⚡ Focused on Full-Stack Development, Scripting, and Browser Automation.
+- 🛠️ Currently building custom web applications and scalable tools.
+- 🎯 Less talk, more code. I believe in clean, minimal, and efficient solutions.
 
-<br />
+<br>
 
-### 🚀 What I'm Up To
-- 💻 Currently building clean, fast, and user-focused web apps.
-- ⚙️ Tinkering with custom browser extensions and automation scripts.
-- 🔧 Focused on writing minimal and scalable code.
+### 💻 Tech Arsenal
+<p align="left">
+  <!-- Premium dynamic icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,python,nodejs,git,bash,html,css&perline=10" />
+  </a>
+</p>
 
-<br />
+<br>
 
-<div align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</div>
+### 📊 GitHub Metrics
+<p align="center">
+  <!-- Dynamic stat cards (Make sure to change YOUR_USERNAME to your actual GitHub username) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&text_color=333" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=1f2328&text_color=333" height="160" alt="Top Languages" />
+</p>
