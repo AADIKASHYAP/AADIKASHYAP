@@ -1,20 +1,21 @@
 <div align="center">
 
-# ADARSH KASHYAP
+# ✨ ADARSH KASHYAP ✨
 
 ### Software Engineer | Backend & Full-Stack Development
+*Building scalable, maintainable, and production-ready software.*
 
-Building scalable, maintainable and production-ready software.
+<br>
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -22,52 +23,45 @@ Building scalable, maintainable and production-ready software.
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a Software Engineer focused on building reliable backend systems,
-web applications, APIs, and developer-focused solutions.
+I'm a Software Engineer focused on building reliable backend systems, web applications, APIs, and developer-focused solutions.
 
-Currently working as a **Software Engineering Intern at TechnoTribes**, 
-where I contribute to real-world software projects and work with
-production-oriented development workflows.
+Currently working as a **Software Engineering Intern at TechnoTribes**, where I contribute to real-world software projects and work with production-oriented development workflows.
 
-- 💻 Interested in Backend & Full-Stack Engineering
-- 🧩 Focused on clean architecture and maintainable code
-- 🔧 Comfortable working with APIs, databases and Git-based workflows
-- 🚀 Continuously improving engineering fundamentals
-- 📚 Always learning and experimenting with new technologies
+- 💻 **Interests:** Backend & Full-Stack Engineering
+- 🧩 **Focus:** Clean architecture and maintainable code
+- 🔧 **Comfortable with:** APIs, databases and Git-based workflows
+- 🚀 **Goal:** Continuously improving engineering fundamentals
+- 📚 **Learning:** Always learning and experimenting with new technologies
 
----
+<br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql&theme=light" />
 </p>
 
-### Backend & Frameworks
-
+**Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=light" />
 </p>
 
-### Frontend
-
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=light" />
 </p>
 
-### Databases & Tools
-
+**Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,docker,linux,vscode&theme=light&perline=10" />
 </p>
 
----
+<br>
 
-## What I Work On
+## ⚙️ What I Work On
 
 ```text
 Backend Development
@@ -92,14 +86,3 @@ Software Engineering
         ├── Debugging
         ├── Refactoring
         └── Production Workflows
-### 📈 GitHub Analytics
-<p align="center">
-  <!-- Bright and professional 'buefy' theme for stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true&title_color=007BFF&icon_color=007BFF" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true&title_color=007BFF" height="170" alt="Top Languages" />
-</p>
-
-<div align="center">
-  <br>
-  <i>Let's build something awesome together! ✌️</i>
-</div>
