@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+hero.png
+source-prepped.png
+_rembg.png
