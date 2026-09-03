@@ -41,12 +41,12 @@ Currently working as a **Software Engineering Intern at TechnoTribes**, where I 
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql&theme=light" />
 </p>
 
 **Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi&theme=light" />
 </p>
 
 **Frontend**
@@ -56,7 +56,7 @@ Currently working as a **Software Engineering Intern at TechnoTribes**, where I 
 
 **Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,docker,linux,vscode&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,git,github,docker,linux,vscode&theme=light&perline=10" />
 </p>
 
 <br>
